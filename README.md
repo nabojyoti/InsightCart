@@ -87,6 +87,6 @@ docker-compose down
 - **Enhanced UX/UI**: Improve frontend design with Bootstrap or Materialize CSS.
 
 
-## License
+## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
