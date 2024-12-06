@@ -2,8 +2,6 @@
 
 **InsightCart** is a machine learning-powered **Flask-based web application** for product recommendation, designed to deliver personalized suggestions. Built with the **Singular Value Decomposition (SVD)** algorithm, this system leverages collaborative filtering to provide accurate and tailored recommendations. The application is fully containerized using Docker, making deployment seamless and efficient.  
 
----
-
 ## 🚀 Features  
 
 - **Flask Web Application**: A responsive web interface where users can select user IDs and product IDs to get personalized product recommendations.  
@@ -12,8 +10,6 @@
 - **Interactive Web Interface**: Styled using Bootstrap, the interface is clean and user-friendly.  
 - **Modular Project Structure**: Separates logic for model loading, web interface, and prediction for better scalability and maintainability.  
 
----
-
 ## 💻 Tech Stack  
 
 - **Programming Language**: Python
@@ -21,8 +17,6 @@
 - **Machine Learning**: scikit-surprise (SVD algorithm)  
 - **Frontend Styling**: Bootstrap  
 - **Containerization**: Docker, Docker Compose  
-
----
 
 ## 🗂️ Project Structure  
 
@@ -87,6 +81,6 @@ docker-compose down
 - **Enhanced UX/UI**: Improve frontend design with Bootstrap or Materialize CSS.
 
 
-## License
+## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
